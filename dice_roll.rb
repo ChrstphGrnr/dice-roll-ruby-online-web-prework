@@ -3,7 +3,7 @@
 # Feel free to google "how to generate a random number in ruby"
 
 def roll(array)
-  array = (1..6)
+  array = 1..6
   array.sample
 end
 
